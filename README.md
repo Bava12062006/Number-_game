@@ -10,3 +10,4 @@
 
 **INTERNSHIP DATE**: 25/12/24 TO 25/01/25
 
+**Output**:https://github.com/Bava12062006/Number-_game/issues/1#issue-2782329070
